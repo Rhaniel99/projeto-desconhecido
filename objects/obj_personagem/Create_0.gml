@@ -4,6 +4,7 @@ esquerda = -1;
 baixo = -1;
 
 
+
 hveloc = 0;
 vveloc = 0;
 

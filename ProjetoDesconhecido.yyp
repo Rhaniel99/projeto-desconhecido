@@ -35,7 +35,10 @@
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":0,},
     {"id":{"name":"spr_parede","path":"sprites/spr_parede/spr_parede.yy",},"order":0,},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"order":0,},
+    {"id":{"name":"spr_carta","path":"sprites/spr_carta/spr_carta.yy",},"order":0,},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"order":0,},
+    {"id":{"name":"obj_carta","path":"objects/obj_carta/obj_carta.yy",},"order":0,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
