@@ -16,10 +16,14 @@
     {"name":"Extensões","order":14,"path":"folders/Extensões.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_pedras01","order":4,"path":"sprites/spr_pedras01/spr_pedras01.yy",},
+    {"name":"obj_arvore01","order":4,"path":"objects/obj_arvore01/obj_arvore01.yy",},
     {"name":"spr_parede","order":1,"path":"sprites/spr_parede/spr_parede.yy",},
     {"name":"spr_carta","order":2,"path":"sprites/spr_carta/spr_carta.yy",},
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_personagem","order":1,"path":"objects/obj_personagem/obj_personagem.yy",},
     {"name":"obj_carta","order":3,"path":"objects/obj_carta/obj_carta.yy",},
+    {"name":"spr_arvore01","order":3,"path":"sprites/spr_arvore01/spr_arvore01.yy",},
+    {"name":"obj_pedras01","order":5,"path":"objects/obj_pedras01/obj_pedras01.yy",},
   ],
 }
