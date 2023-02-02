@@ -4,6 +4,7 @@ cima = keyboard_check(ord("W"));
 baixo = keyboard_check(ord("S"));
 esquerda = keyboard_check(ord("A"));
 #endregion
+
 #region Colisão
 if place_meeting(x + hveloc, y, obj_parede){
  while !place_meeting(x + sign(hveloc), y, obj_parede){
@@ -23,9 +24,10 @@ if place_meeting(x , y + vveloc, obj_parede){
 }
 y += vveloc;
 #endregion
+
 hveloc = (direita - esquerda) * veloc;
 
-var interacao = false;
+
 
 if (keyboard_check_pressed(ord("E"))) {
     // Armazena o objeto mais próximo do personagem com o tipo obj_carta em uma variável
@@ -34,9 +36,12 @@ if (keyboard_check_pressed(ord("E"))) {
     // Verifica se o objeto existe e se a distância entre o personagem e o objeto é menor ou igual a um valor específico
     if (object && point_distance(x, y, object.x, object.y) <= 58) {
         // Define a variável "interacao" como verdadeira
-        interacao = true;
+        object.interacao = true;
+		
+
         
         // Exibe uma mensagem na tela
         show_message("Você encontrou uma carta antiga!");
+		
     }
 }
