@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Spr_estantedelivro",
+  "name": "spr_estantedelivro",
   "bbox_bottom": 440,
   "bbox_left": 674,
   "bbox_right": 824,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Spr_estantedelivro",
+    "name": "spr_estantedelivro",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f976cbe5-12bd-47a5-88ef-de7abe54573c","path":"sprites/Spr_estantedelivro/Spr_estantedelivro.yy",},},},"Disabled":false,"id":"6e1a5a77-6edf-4918-94ff-6a7f6dd49152","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f976cbe5-12bd-47a5-88ef-de7abe54573c","path":"sprites/spr_estantedelivro/spr_estantedelivro.yy",},},},"Disabled":false,"id":"6e1a5a77-6edf-4918-94ff-6a7f6dd49152","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
