@@ -12,4 +12,6 @@ if (interacao == true)
 {
 	// Destruir o objeto da carta ao pegar ela
 	instance_destroy(obj_carta)	
+	
+
 }

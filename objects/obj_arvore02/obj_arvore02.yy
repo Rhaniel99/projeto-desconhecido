@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_parede",
+  "name": "obj_arvore02",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,11 +24,14 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "spr_parede",
-    "path": "sprites/spr_parede/spr_parede.yy",
+    "name": "spr_arvore02",
+    "path": "sprites/spr_arvore02/spr_arvore02.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_arvore02",
+    "path": "sprites/spr_arvore02/spr_arvore02.yy",
+  },
   "visible": true,
 }
