@@ -43,11 +43,12 @@
     {"id":{"name":"spr_interacao","path":"sprites/spr_interacao/spr_interacao.yy",},"order":0,},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"order":0,},
     {"id":{"name":"spr_cadeira","path":"sprites/spr_cadeira/spr_cadeira.yy",},"order":0,},
-    {"id":{"name":"Spri_armario","path":"sprites/Spri_armario/Spri_armario.yy",},"order":0,},
+    {"id":{"name":"spr_armario","path":"sprites/spr_armario/spr_armario.yy",},"order":0,},
     {"id":{"name":"obj_carta","path":"objects/obj_carta/obj_carta.yy",},"order":0,},
     {"id":{"name":"spr_arvore01","path":"sprites/spr_arvore01/spr_arvore01.yy",},"order":0,},
     {"id":{"name":"obj_pedras01","path":"objects/obj_pedras01/obj_pedras01.yy",},"order":0,},
     {"id":{"name":"spr_estantedelivro","path":"sprites/spr_estantedelivro/spr_estantedelivro.yy",},"order":0,},
+    {"id":{"name":"spr_casainicial","path":"sprites/spr_casainicial/spr_casainicial.yy",},"order":0,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [

@@ -25,10 +25,11 @@
     {"name":"spr_interacao","order":9,"path":"sprites/spr_interacao/spr_interacao.yy",},
     {"name":"obj_personagem","order":1,"path":"objects/obj_personagem/obj_personagem.yy",},
     {"name":"spr_cadeira","order":7,"path":"sprites/spr_cadeira/spr_cadeira.yy",},
-    {"name":"Spri_armario","order":5,"path":"sprites/Spri_armario/Spri_armario.yy",},
+    {"name":"spr_armario","order":5,"path":"sprites/spr_armario/spr_armario.yy",},
     {"name":"obj_carta","order":3,"path":"objects/obj_carta/obj_carta.yy",},
     {"name":"spr_arvore01","order":3,"path":"sprites/spr_arvore01/spr_arvore01.yy",},
     {"name":"obj_pedras01","order":5,"path":"objects/obj_pedras01/obj_pedras01.yy",},
     {"name":"spr_estantedelivro","order":8,"path":"sprites/spr_estantedelivro/spr_estantedelivro.yy",},
+    {"name":"spr_casainicial","order":11,"path":"sprites/spr_casainicial/spr_casainicial.yy",},
   ],
 }
