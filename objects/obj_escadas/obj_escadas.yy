@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_porta03",
+  "name": "obj_escadas",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_porta03",
-    "path": "sprites/spr_porta03/spr_porta03.yy",
+    "name": "spr_escadas",
+    "path": "sprites/spr_escadas/spr_escadas.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,3 +1,4 @@
+
 #region Controles
 direita = keyboard_check(ord("D"));
 cima = keyboard_check(ord("W"));
@@ -48,21 +49,5 @@ if (keyboard_check_pressed(ord("E"))) {
     }
 }
 	
-// Criar evento de colisão
-event_user(0)
-{
-  // Verificar se o objeto colidiu com o objeto alvo 1
-  if (place_meeting(x, y, obj_porta01)) {
-    // Carregar a primeira sala diferente
-    room_goto(rm_01);
-  }
-  // Verificar se o objeto colidiu com o objeto alvo 2
-  else if (place_meeting(x, y, obj_porta02)) {
-    // Carregar a segunda sala diferente
-    room_goto(rm_02);
-  }
-  else if (place_meeting(x, y, obj_porta03)) {
-    // Carregar a segunda sala diferente
-    room_goto(rm_03);
-  }
-}
+
+if (instance_exists(obj_transicao)) exit;	
