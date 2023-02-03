@@ -23,6 +23,8 @@ if place_meeting(x , y + vveloc, obj_parede){
  vveloc = 0;
 }
 y += vveloc;
+
+
 #endregion
 
 hveloc = (direita - esquerda) * veloc;
@@ -44,4 +46,23 @@ if (keyboard_check_pressed(ord("E"))) {
         show_message("Você encontrou uma carta antiga!");
 		
     }
+}
+	
+// Criar evento de colisão
+event_user(0)
+{
+  // Verificar se o objeto colidiu com o objeto alvo 1
+  if (place_meeting(x, y, obj_porta01)) {
+    // Carregar a primeira sala diferente
+    room_goto(rm_01);
+  }
+  // Verificar se o objeto colidiu com o objeto alvo 2
+  else if (place_meeting(x, y, obj_porta02)) {
+    // Carregar a segunda sala diferente
+    room_goto(rm_02);
+  }
+  else if (place_meeting(x, y, obj_porta03)) {
+    // Carregar a segunda sala diferente
+    room_goto(rm_03);
+  }
 }
