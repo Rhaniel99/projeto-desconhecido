@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "spr_parede",
-    "path": "sprites/spr_parede/spr_parede.yy",
+    "name": "spr_parede_casa",
+    "path": "sprites/spr_parede_casa/spr_parede_casa.yy",
   },
   "spriteMaskId": null,
   "visible": true,

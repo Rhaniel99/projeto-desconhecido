@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_arvore02",
+  "name": "obj_parede_tras",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "spr_arvore02",
-    "path": "sprites/spr_arvore02/spr_arvore02.yy",
+    "name": "spr_parede_tras",
+    "path": "sprites/spr_parede_tras/spr_parede_tras.yy",
   },
   "spriteMaskId": null,
   "visible": true,

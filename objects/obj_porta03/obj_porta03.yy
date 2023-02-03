@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_arvore02",
+  "name": "obj_porta03",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_arvore02",
-    "path": "sprites/spr_arvore02/spr_arvore02.yy",
+    "name": "spr_porta03",
+    "path": "sprites/spr_porta03/spr_porta03.yy",
   },
   "spriteMaskId": null,
   "visible": true,
