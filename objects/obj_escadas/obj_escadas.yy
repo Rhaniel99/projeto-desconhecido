@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_escadas",
+    "path": "sprites/spr_escadas/spr_escadas.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

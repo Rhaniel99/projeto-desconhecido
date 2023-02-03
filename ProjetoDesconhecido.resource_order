@@ -38,6 +38,7 @@
     {"name":"spr_escadas","order":13,"path":"sprites/spr_escadas/spr_escadas.yy",},
     {"name":"obj_parede_tras","order":12,"path":"objects/obj_parede_tras/obj_parede_tras.yy",},
     {"name":"obj_parede_lado","order":11,"path":"objects/obj_parede_lado/obj_parede_lado.yy",},
+    {"name":"spr_interacao","order":14,"path":"sprites/spr_interacao/spr_interacao.yy",},
     {"name":"obj_carta","order":3,"path":"objects/obj_carta/obj_carta.yy",},
     {"name":"obj_escadas","order":13,"path":"objects/obj_escadas/obj_escadas.yy",},
     {"name":"rm_02","order":1,"path":"rooms/rm_02/rm_02.yy",},

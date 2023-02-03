@@ -56,6 +56,7 @@
     {"id":{"name":"spr_escadas","path":"sprites/spr_escadas/spr_escadas.yy",},"order":0,},
     {"id":{"name":"obj_parede_tras","path":"objects/obj_parede_tras/obj_parede_tras.yy",},"order":0,},
     {"id":{"name":"obj_parede_lado","path":"objects/obj_parede_lado/obj_parede_lado.yy",},"order":0,},
+    {"id":{"name":"spr_interacao","path":"sprites/spr_interacao/spr_interacao.yy",},"order":0,},
     {"id":{"name":"obj_carta","path":"objects/obj_carta/obj_carta.yy",},"order":0,},
     {"id":{"name":"obj_escadas","path":"objects/obj_escadas/obj_escadas.yy",},"order":0,},
     {"id":{"name":"rm_02","path":"rooms/rm_02/rm_02.yy",},"order":0,},
