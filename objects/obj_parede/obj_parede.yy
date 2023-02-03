@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spr_parede_casa",
-    "path": "sprites/spr_parede_casa/spr_parede_casa.yy",
+    "name": "spr_porta03",
+    "path": "sprites/spr_porta03/spr_porta03.yy",
   },
   "spriteMaskId": null,
   "visible": true,

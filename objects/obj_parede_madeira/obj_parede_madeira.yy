@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_porta02",
+  "name": "obj_parede_madeira",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_porta02",
-    "path": "sprites/spr_porta02/spr_porta02.yy",
+    "name": "spr_parede_casa",
+    "path": "sprites/spr_parede_casa/spr_parede_casa.yy",
   },
   "spriteMaskId": null,
   "visible": true,
