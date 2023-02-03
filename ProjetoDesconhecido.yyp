@@ -32,6 +32,7 @@
     "IDEVersion": "2023.1.0.58",
   },
   "resources": [
+    {"id":{"name":"Spr_cama","path":"sprites/Spr_cama/Spr_cama.yy",},"order":0,},
     {"id":{"name":"spr_pedras01","path":"sprites/spr_pedras01/spr_pedras01.yy",},"order":0,},
     {"id":{"name":"obj_arvore01","path":"objects/obj_arvore01/obj_arvore01.yy",},"order":0,},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},"order":0,},
@@ -39,10 +40,14 @@
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},"order":0,},
     {"id":{"name":"spr_carta","path":"sprites/spr_carta/spr_carta.yy",},"order":0,},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},"order":0,},
+    {"id":{"name":"Spr_interacao","path":"sprites/Spr_interacao/Spr_interacao.yy",},"order":0,},
     {"id":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"order":0,},
+    {"id":{"name":"Spr_cadeira","path":"sprites/Spr_cadeira/Spr_cadeira.yy",},"order":0,},
+    {"id":{"name":"Spri_armario","path":"sprites/Spri_armario/Spri_armario.yy",},"order":0,},
     {"id":{"name":"obj_carta","path":"objects/obj_carta/obj_carta.yy",},"order":0,},
     {"id":{"name":"spr_arvore01","path":"sprites/spr_arvore01/spr_arvore01.yy",},"order":0,},
     {"id":{"name":"obj_pedras01","path":"objects/obj_pedras01/obj_pedras01.yy",},"order":0,},
+    {"id":{"name":"Spr_estantedelivro","path":"sprites/Spr_estantedelivro/Spr_estantedelivro.yy",},"order":0,},
     {"id":{"name":"Ambiente1","path":"rooms/Ambiente1/Ambiente1.yy",},"order":0,},
   ],
   "RoomOrderNodes": [
